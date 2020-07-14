@@ -1,3 +1,9 @@
+.title {
+	text-align: center;
+	margin: 0 auto;
+	width: 400px;
+}
+
 .calculator {
 	text-align: center;
 	margin: 0 auto;
